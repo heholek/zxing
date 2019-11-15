@@ -88,7 +88,7 @@
     <!-- This can't reference project.version as some subprojects version differently -->
     <zxing.version>3.4.1-SNAPSHOT</zxing.version>
     <android.platform>22</android.platform>
-    <maven.scm.version>1.9.5</maven.scm.version>
+    <maven.scm.version>1.11.2</maven.scm.version>
   </properties>
 
   <build>
